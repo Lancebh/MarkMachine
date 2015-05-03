@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2015-05-03T01:54:34.0329459-07:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>MiniBreadboard.SLDPRT</FileName>
+      <SHA1>810EBDE9C882D5517C7659B8BEDFE6629CB83B74</SHA1>
+      <FileSize>8071680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2015-04-30T05:41:18.4158038+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
